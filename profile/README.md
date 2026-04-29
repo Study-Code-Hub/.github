@@ -1,52 +1,55 @@
 # Study‑Code‑Hub
 
 👨‍💻 This organization is a collaboration between **Tommaso Rossi** and **Luca Anghinolfi**.  
-Both are Master’s students in **Computer Engineering @ University of Modena** —  
+Both are Master’s students in **Computer Engineering @ University of Modena and Reggio Emilia** —  
 Tommaso (Data Analytics track) & Luca (Artificial Intelligence track).  
 
-We use this space to share projects we’ve built and study materials we’ve created together.
+We use this space to share joint projects, academic assignments, and study materials we’ve developed together.
 
 ---
 
 ## 📂 Projects
 
 ### **SWENG_2024** 🚀
-💻 *Progetto di Ingegneria del Software* (A.A. 2023/2024)  
-⚙️ Un sistema progettato seguendo metodologie **Agile** e architetture software robuste (SOLID, Design Patterns).  
-🛠️ Focus su modularità, testing automatizzato e documentazione tecnica.
+💻 *Software Engineering Project* (A.Y. 2023/2024)  
+⚙️ A system designed following **Agile** methodologies and robust software architectures (**SOLID**, **Design Patterns**).  
+🛠️ Focus on modularity, automated testing, and comprehensive technical documentation.
+
+### **ESQL_2024** 📊
+🌐 *Databases Course Project* (A.Y. 2023/2024)  
+🗄️ A web-based application integrating a relational database with a dynamic **PHP** backend and a responsive **HTML/CSS** frontend.  
+🔐 Features full CRUD operations, SQL schema management, and data persistence.
 
 ### **LABSO_CashFlow** 💸
-🏦 *Progetto di Laboratorio di Sistemi Operativi* (A.A. 2023/2024)  
-📡 Servizio per la gestione di trasferimenti monetari tra conti bancari attraverso un'architettura **Client-Server**.  
-🔐 Implementazione di sincronizzazione, gestione della concorrenza tramite socket e persistenza dei dati.
+🏦 *Operating Systems Laboratory Project* (A.Y. 2023/2024)  
+📡 A service for managing monetary transfers between bank accounts through a **Client-Server** architecture.  
+🔐 Implementation of thread synchronization, concurrency management via sockets, and data persistence.
 
 ### **Progetto_Naboo** ⚽
-💻 *Progetto di Internet Programming* (A.A. 2021/2022)  
-📍 Bot Telegram e pannello di controllo in **Java** per l'aggregazione di notizie sulla Serie A.  
-📊 Utilizzo di Feed RSS, Database SQL e interfaccia grafica JavaFX per la gestione amministrativa.
+💻 *Internet Programming Project* (A.Y. 2021/2022)  
+📍 A **Java**-based Telegram Bot and control panel for aggregating Serie A news.  
+📊 Utilizes RSS Feeds, SQL Databases, and a **JavaFX** graphical interface for administrative management.
 
 ### **SmokeCount** 🧪
-🏫 *Tesina di Maturità presso I.I.S. Blaise Pascal* (A.A. 2020/2021)  
-📁 Web application interattiva realizzata in **HTML/JS** per dimostrare il conteggio dei danni e dei dati relativi al fumo.
+🏫 *High School Graduation Thesis @ I.I.S. Blaise Pascal* (A.Y. 2020/2021)  
+📁 An interactive web application built with **HTML/JS** to demonstrate data tracking and health impact analysis related to smoking.
 
 ---
 
 ## 🛠 Tech Stack & Tools
-Di seguito alcune delle tecnologie principali utilizzate nei vari repository:
-- **Languages:** Java, Python, HTML/CSS, JavaScript, C/C++ (Systems Programming)
-- **Frameworks & Libs:** JavaFX, Maven, FastAPI/Flask (Python), Socket API
+A selection of the core technologies used across our repositories:
+- **Languages:** Java, Python, PHP, HTML/CSS, JavaScript, C/C++ (Systems Programming)
+- **Frameworks & Libs:** JavaFX, Maven, FastAPI/Flask (Python), Socket API, MySQL
 - **Architectures:** REST API, Client-Server, Layered/Hexagonal Architecture
 - **DevOps:** GitHub Actions (CI/CD), Git
 
 ---
 
 ## 🤝 Contributing
-
-We welcome contributions — feel free to explore the repos, suggest changes, or collaborate!
+We welcome contributions — feel free to explore our repositories, suggest changes, or reach out for collaboration!
 
 ---
 
 ## 🔗 Members
-
-- **Tommaso Rossi** — https://github.com/RedKyrie  
-- **Luca Anghinolfi** — https://github.com/Lucaanghi  
+- **Tommaso Rossi** — [github.com/RedKyrie](https://github.com/RedKyrie)  
+- **Luca Anghinolfi** — [github.com/Lucaanghi](https://github.com/Lucaanghi)

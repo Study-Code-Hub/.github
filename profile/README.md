@@ -20,6 +20,10 @@ We use this space to share joint projects, academic assignments, and study mater
 🗄️ A web-based application integrating a relational database with a dynamic **PHP** backend and a responsive **HTML/CSS** frontend.  
 🔐 Features full CRUD operations, SQL schema management, and data persistence.
 
+### **LAM_2024** 📱
+📲 *Mobile Applications Laboratory Project* (A.Y. 2023/2024)  
+🤖 A native Android application developed 100% in **Kotlin**, focusing on modern mobile development and UI/UX patterns.
+
 ### **LABSO_CashFlow** 💸
 🏦 *Operating Systems Laboratory Project* (A.Y. 2023/2024)  
 📡 A service for managing monetary transfers between bank accounts through a **Client-Server** architecture.  

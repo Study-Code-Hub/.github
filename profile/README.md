@@ -65,5 +65,5 @@ We welcome contributions — feel free to explore our repositories, suggest chan
 ---
 
 ## 🔗 Members
-- **Tommaso Rossi** — [github.com/RedKyrie](https://github.com/RedKyrie)  
+- **Tommaso Rossi** — [github.com/RedKyrie](https://github.com/tommasorossii)  
 - **Luca Anghinolfi** — [github.com/Lucaanghi](https://github.com/Lucaanghi)

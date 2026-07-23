@@ -10,6 +10,11 @@ We use this space to share joint projects, academic assignments, and study mater
 
 ## 📂 Projects
 
+### **IoT_Project (H2O Domotic)** 💧
+💻 *University Project | Course: HMI & IoT | UniMoRe* (A.Y. 2025/2026)  
+⚙️ **Core Features:** End-to-end edge-to-cloud water intelligence system for real-time monitoring of quantity (flow/pressure) and quality (TDS/turbidity), proactive leak prevention, and multi-property management.  
+🛠️ **Tech Stack:** Arduino Uno R4 WiFi (Edge), MQTT (Communication), Python & Render (Cloud Backend), Google Firebase Firestore (Database), Flutter & FlutterFlow (Mobile App).
+
 ### **FREEDA-GraphicPanel** 📈
 💻 *Thesis Project* (A.Y. 2024/2025)  
 ⚙️ **Core Features:** Visual modeling of microservice topologies and Cloud-IoT infrastructures, automated YAML generation, and integration with constraint solvers for optimal deployment mapping[cite: 1].  

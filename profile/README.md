@@ -10,6 +10,11 @@ We use this space to share joint projects, academic assignments, and study mater
 
 ## 📂 Projects
 
+### **FREEDA-GraphicPanel** 📈
+💻 *Thesis Project* (A.Y. 2024/2025)  
+⚙️ **Core Features:** Visual modeling of microservice topologies and Cloud-IoT infrastructures, automated YAML generation, and integration with constraint solvers for optimal deployment mapping[cite: 1].  
+🛠️ **Tech Stack:** JavaFX, Maven, Python, MiniZinc, SnakeYAML[cite: 1].
+
 ### **SWENG_2024** 🚀
 💻 *Software Engineering Project* (A.Y. 2023/2024)  
 ⚙️ A system designed following **Agile** methodologies and robust software architectures (**SOLID**, **Design Patterns**).  
